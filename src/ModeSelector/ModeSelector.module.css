@@ -1,0 +1,9 @@
+.Mode {
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.Mode button {
+    margin-left: 10px;
+}
